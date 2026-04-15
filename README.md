@@ -11,6 +11,7 @@ Conception et implémentation d'une BDD relationnelle complète : modèle entit�
 <br/>
 
 [Rapport complet](rapport-bdr.pdf)
+
 </div>
 
 ---
@@ -54,4 +55,7 @@ mysql -u root -p < restaurant.sql
 ## Auteurs
 
 Projet réalisé en L2 Informatique — Université de Limoges, 2025–2026.
+
+**LIGAN Zinsou Corneille · MOUSSA Atié Ahmat · RAJAOTIANA Rinoh Dominique**
+
 Encadré par M. Olivier Terraz.
