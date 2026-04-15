@@ -8,7 +8,9 @@ Conception et implémentation d'une BDD relationnelle complète : modèle entit�
 ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=flat&logo=phpmyadmin&logoColor=white)
 ![MIT](https://img.shields.io/badge/Licence-MIT-4f8ef7?style=flat)
 
+<br/>
 
+[Rapport complet](rapport-bdr.pdf)
 </div>
 
 ---
